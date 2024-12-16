@@ -1,0 +1,104 @@
+{
+  "name": "Halo Focus",
+  "short_name": "HaloFocus",
+  "description": "Halo Focus, a Pomodoro-based study app designed to boost productivity with focus-oriented timers, a todo-list, and breathing exercises. Improve concentration, track study progress, and stay motivated with a minimal, distraction-free Interface. Ideal for students and professionals aiming to maximize productivity, study or work sessions.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff4ea",
+  "theme_color": "#c96868",
+  "icons": [
+    {
+      "src": "Icons/pwa/16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "Icons/pwa/24x24.png",
+      "sizes": "24x24",
+      "type": "image/png"
+    },
+    {
+      "src": "Icons/pwa/32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "Icons/pwa/64x64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "Icons/pwa/128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "Icons/pwa/192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "Icons/iOS192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "Icons/pwa/256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "Icons/pwa/512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+
+  "screenshots": [
+    {
+      "src": "Screenshots/1.jpeg",
+      "sizes": "822x1640",
+      "type": "image/jpeg",
+      "purpose": "any",
+      "form_factor": "narrow",
+      "label": "Homepage"
+    },
+    {
+      "src": "Screenshots/2.jpeg",
+      "sizes": "822x1640",
+      "type": "image/jpeg",
+      "purpose": "any",
+      "form_factor": "narrow",
+      "label": "Music Selection"
+    },
+    {
+      "src": "Screenshots/3.jpeg",
+      "sizes": "822x1640",
+      "type": "image/jpeg",
+      "purpose": "any",
+      "form_factor": "narrow",
+      "label": "To Do list"
+    },
+    {
+      "src": "Screenshots/4.jpeg",
+      "sizes": "822x1640",
+      "type": "image/jpeg",
+      "purpose": "any",
+      "form_factor": "narrow",
+      "label": "Activity Tracker"
+    }
+  ],
+  "orientation": "any",
+  "categories": ["productivity", "utilities"],
+  "prefer_related_applications": false,
+  "shortcuts": [
+    {
+      "name": "Halo Focus",
+      "short_name": "HaloFocus",
+      "description": "HaloFocus, A Pomodoro Timer application to help you focus for productive study sessions.",
+      "url": "/?action=start",
+      "icons": [{ "src": "Icons/iOS192x192.png", "sizes": "192x192" }]
+    }
+  ]
+}
