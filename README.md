@@ -6,6 +6,6 @@
 - Tailwind CSS
 - Google Firebase Auth, Firestore DB
 - Vite
-- Netlify
+-Vercel
 
 ![](https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true)
